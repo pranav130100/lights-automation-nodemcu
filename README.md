@@ -5,10 +5,10 @@ NodeMCU is an open source IoT platform. It includes firmware which runs on the E
 # Features of ESP8266
 - Processor: L106 32-bit RISC microprocessor core based on the Tensilica Xtensa Diamond Standard 106Micro running at 80 MHz
 - Memory:
-	..- 32 KiB instruction RAM
-	..- 32 KiB instruction cache RAM
-	..- 80 KiB user-data RAM
-	..- 16 KiB ETS system-data RAM
+	- 32 KiB instruction RAM
+	- 32 KiB instruction cache RAM
+	- 80 KiB user-data RAM
+	- 16 KiB ETS system-data RAM
 - External QSPI flash: up to 16 MiB is supported (512 KiB to 4 MiB typically included)
 - IEEE 802.11 b/g/n Wi-Fi
 - Integrated TR switch, balun, LNA, power amplifier and matching network
