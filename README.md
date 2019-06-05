@@ -27,6 +27,21 @@ NodeMCU is an open source IoT platform. It includes firmware which runs on the E
 - Code with PWM Support.
 - Can Control lights with different PWM setting to alter Brightness using a Transistor or Logic Level MOSFET.
 
+# Instructions
+- Connect the ESP8266 Module.
+- Open the Code in Arduino IDE.
+- Setup WiFi Access Point Details.
+- Setup Adafruit Connection Settings.
+- Compile and Upload the Code to the Module.
+- Make Connections to the Defined PIN.
+- Enjoy.
+
+# Software and Hardware Requirements
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+- [NodeMCU/ESP8266 Module](https://www.amazon.in/REES52-Internet-Development-Wireless-Compatible/dp/B071ZJ8Z5L/ref=sr_1_8?keywords=nodemcu&qid=1559747055&s=gateway&sr=8-8)
+- N-Channel MOSFET's. [This](https://www.mouser.in/ProductDetail/Infineon-Technologies/IRLZ44NPBF?qs=sGAEpiMZZMshyDBzk1%2FWi5%252BqVgN3%252BWS8XJUuq%2FrUER4%3D) is Recomended.
+- [Micro-B USB Cable](https://www.amazon.in/AmazonBasics-Micro-Charging-Android-Phones/dp/B0711PVX6Z/ref=sr_1_4?keywords=micro+b+usb+cable&qid=1559747745&s=gateway&smid=AT95IG9ONZD7S&sr=8-4)
+
 # Support
 Raise a issue / Email [Pranav M S](mailto:pranav130100@gmail.com)
 
